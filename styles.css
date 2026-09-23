@@ -16,6 +16,10 @@ body{
 }
 h3,p{
 	text-align:left;
+	
+}
+p{
+	color:#777777;
 }
 button{
 	width:300px;
